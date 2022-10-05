@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gaks98
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on any Python related project
+- 🌱 I’m currently ####
+- 💞️ I’m looking to ####
 - 📫 How to reach me ####
 
 <!---
